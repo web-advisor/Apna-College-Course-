@@ -15,4 +15,7 @@
 - <b>Standard Input Stream </b>*Usually the input device in a computer is the keyboard. C++ cin statement is the instance of the class istream and is used to read input from the standard input device which is usually a keyboard.
 The extraction operator(>>) is used along with the object cin for reading inputs. The extraction operator extracts the data from the object cin which is entered using the keyboard.*
 
+# Resources : 
+## [Link for Notes](https://drive.google.com/file/d/1k3FheMJLvVu2YBkySBU9DKXFWGne24ee/view)
+## [Link for more iostream theory](https://www.geeksforgeeks.org/basic-input-output-c/)
 

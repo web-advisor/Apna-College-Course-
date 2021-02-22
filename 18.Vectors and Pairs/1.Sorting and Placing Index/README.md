@@ -22,7 +22,7 @@ for(int i=0; i < ( sizeof(arr) / sizeof(arr[0]) ) ; i++){
 pair<int,int> p ; <br>
 p.first=arr[i];<br>
 p.second=i;<br>
-v.pushback(p.first,p.second);<br>
+v.pushback({p.first,p.second});<br>
 ### /*  Alternate to do the same thing<br>
 ### temp pair using make_pair()<br>
 v.pushback(make_pair(arr[i],i));  <br> */

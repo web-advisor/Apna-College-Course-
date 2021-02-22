@@ -13,7 +13,7 @@ int main(){
        pair<int,int> p;
        p.first=arr[i];
        p.second=i;
-       v.pushback(p.first,p.second); */
+       v.pushback({p.first,p.second}); */
     // temp pair using make_pair()
      v.push_back(make_pair(arr[i],i));   
     } 
